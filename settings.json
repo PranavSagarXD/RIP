@@ -31,6 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
+        "Hello, Welcome to Craftex!",
+        "I am a bot to keep the server always online!"
       ]
     },
     "chat-log": true,
