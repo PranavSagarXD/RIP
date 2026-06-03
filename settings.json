@@ -31,8 +31,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hello, Welcome to Craftex!",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
