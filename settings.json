@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "craftex.aternos.me",
-    "port": 16571,
+    "ip": "nl-01.freezehost.pro",
+    "port": 9744,
     "version": "",
     "try-creative": false
   },
