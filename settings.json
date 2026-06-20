@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 2700,
+      "repeat-delay": 3000,
       "messages": [
         "Hello, Welcome to Craftex!",
         "I am a bot to keep the server online!"
