@@ -32,7 +32,11 @@
       "repeat-delay": 4000,
       "messages": [
         "Hello, Welcome to CraftexSMP!",
-        "Did you know? There is a wiki of this server at https://craftex.rexd.space/#wiki"
+        "Visit the CraftexSMP official website at https://craftex.rexd.space/",
+        "Did you know? There is a Wiki of this server at https://craftex.rexd.space/#wiki",
+        "Make sure to read the rank progression guide to progress faster in game and gain access to exclusive perks! - CraftexSMP Wiki",
+        "You can also chat here right from the Discord Server, Try sending a message in InGameChat CraftexSMP channel!",
+        "Checkout the Discord Server for latest update/event announcement to stay updated!"
       ]
     },
     "chat-log": true,
