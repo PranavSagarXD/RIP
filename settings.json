@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.rexd.space",
-    "port": 16571,
+    "ip": "mc.rexd.space",
+    "port": 9744,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 3500,
+      "repeat-delay": 4000,
       "messages": [
-        "Hello, Welcome to Craftex!",
-        "I am a bot to keep the server online!"
+        "Hello, Welcome to CraftexSMP!",
+        "Did you know? There is a wiki of this server at https://craftex.rexd.space/#wiki"
       ]
     },
     "chat-log": true,
